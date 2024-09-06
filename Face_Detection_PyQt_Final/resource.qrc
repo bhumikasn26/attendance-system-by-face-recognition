@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Rgit">
+    <file>Rgit.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon.png</file>
+  </qresource>
+</RCC>
